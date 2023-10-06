@@ -1,2 +1,2 @@
-jenkins-key.pub
-jenkins-key
+# Ignore key pair
+*key
